@@ -1,0 +1,35 @@
+{
+  "name": "is-valid-oib",
+  "version": "0.0.0",
+  "description": "Check if OIB is valid.",
+  "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "regex-oib": "^1.0.0",
+    "array-map": "^0.0.0",
+    "array-reduce": "^0.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "regex",
+    "oib",
+    "croatia"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niksy/is-valid-oib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niksy/is-valid-oib/issues"
+  },
+  "homepage": "https://github.com/niksy/is-valid-oib"
+}
