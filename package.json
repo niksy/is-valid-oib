@@ -1,6 +1,6 @@
 {
   "name": "is-valid-oib",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if OIB is valid.",
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
   "license": "MIT",
